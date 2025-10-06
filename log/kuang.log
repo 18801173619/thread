@@ -1,0 +1,10 @@
+[DEBUG][25-10-06][小南][com.锁.reentrantLock._条件变量使用例子]没有烟，先歇会
+[DEBUG][25-10-06][小女][com.锁.reentrantLock._条件变量使用例子]没有外卖，先歇会
+[DEBUG][25-10-06][小女][com.锁.reentrantLock._条件变量使用例子]有外卖，开始干活
+[DEBUG][25-10-06][小南][com.锁.reentrantLock._条件变量使用例子]没有烟，先歇会
+[DEBUG][25-10-06][小女][com.锁.reentrantLock._条件变量使用例子]没有外卖，先歇会
+[DEBUG][25-10-06][小女][com.锁.reentrantLock._条件变量使用例子]有外卖，开始干活
+[DEBUG][25-10-06][小南][com.锁.reentrantLock._条件变量使用例子]没有烟，先歇会
+[DEBUG][25-10-06][小女][com.锁.reentrantLock._条件变量使用例子]没有外卖，先歇会
+[DEBUG][25-10-06][小女][com.锁.reentrantLock._条件变量使用例子]有外卖，开始干活
+[DEBUG][25-10-06][小南][com.锁.reentrantLock._条件变量使用例子]有烟，开始干活
